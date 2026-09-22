@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard: Fake Offer Letter & Job Scam Inspector",
+  "description": "AI & Forensic OSINT Engine to verify job offers, analyze header metadata, and detect employment fraud in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
